@@ -17,4 +17,4 @@ This is my project where I have made a simple tictactoe game with the help of HT
 ## 🔗 Links
 
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-bb358b239/)
-- https://x-o-game11.netlify.app
+- https://qr-1-code.netlify.app
